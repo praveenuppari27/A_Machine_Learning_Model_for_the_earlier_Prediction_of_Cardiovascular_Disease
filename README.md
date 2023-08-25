@@ -1,9 +1,4 @@
-# A_Machine_Learning_Model_for_the_earlier_Prediction_of_Cardiovascular_Disease
-Sure, here's a detailed description that you can use for your GitHub README file:
-
----
-
-# Cardiovascular Disease Prediction using Hybrid Dataset and Machine Learning
+# A Machine Learning Model for the_earlier Prediction of Cardiovascular Disease
 
 Cardiovascular Disease (CVD) is a significant global health concern and a leading cause of mortality worldwide. Accurate prediction of CVD risk is crucial for healthcare practitioners to make informed decisions about patient health. Machine learning models have emerged as powerful tools for assisting in health diagnoses, offering a promising approach for predicting CVD risk.
 
@@ -33,7 +28,8 @@ This repository contains the following:
 
 To explore this project, you can follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/yourusername/your-repo.git`.
+1. Clone the repository to your local machine using `git clone
+     [https://github.com/yourusername/your-repo.git](https://github.com/praveenuppari27/A_Machine_Learning_Model_for_the_earlier_Prediction_of_Cardiovascular_Disease)
 
 2. Navigate to the respective directories to access the datasets and Jupyter Notebook files.
 
@@ -43,16 +39,15 @@ To explore this project, you can follow these steps:
 
 ## Contributors
 
-This project was developed by [Your Name] and [Collaborator's Name], as part of [Institution/Organization]'s [Project Name].
+This project was developed by Praveen Uppari and Malapati Sruthi laya, as part of B V RAJU INSTIUTE OF TECHNOLOGY NARSAPUR "## A Machine Learning Model for the_earlier Prediction of Cardiovascular Disease".
 
 ## Acknowledgments
 
-We would like to express our gratitude to [Mentor's Name], our mentor and guide, for their valuable insights and support throughout this project.
+We would like to express our gratitude to Dr. Hutashan vishal Bhagat sir, our mentor and guide, for their valuable insights and support throughout this project.
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this project, please feel free to reach out to [Your Email Address].
+If you have any questions or suggestions regarding this project, please feel free to reach out to 21211a6658@bvrit.ac.in.
 
----
 
-Feel free to personalize the placeholders, such as [Your Name], [Collaborator's Name], [Institution/Organization], [Project Name], [Mentor's Name], [Your Email Address], and any other details according to your project and preferences.
+Feel free to personalize the placeholders, such as Praveen Uppari, Malapati Sruthi Laya, B V Raju Institute Of Technology Narsapur, A Machine Learning Model for the_earlier Prediction of Cardiovascular Disease.
